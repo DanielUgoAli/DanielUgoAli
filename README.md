@@ -8,7 +8,7 @@
 - 🧠 Thoughts: When you begin to comprehend the scale of the cosmos, then you are ready for deep thought.
 - 📊 I'm just a stem enthusiast.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielUgoAli)](https://github.com/DanielUgoAli/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielUgoAli&show_icons=true&locale=en&theme=vue-dark&langs_count=10&hide_border=true&layout=compact" alt="Daniel" />
 
 <!---
 DanielUgoAli/DanielUgoAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
