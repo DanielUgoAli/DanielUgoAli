@@ -9,6 +9,7 @@
 - 📊 I'm just a stem enthusiast. <br>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielUgoAli&show_icons=true&locale=en" alt="Daniel" /> </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielUgoAli&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /> </p>
 
 
 <!---
