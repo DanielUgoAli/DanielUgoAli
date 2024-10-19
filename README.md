@@ -6,11 +6,10 @@
 - 📑 I’m looking to collaborate, share ideas and build a team💪
 - 📫 How to reach me: danielugoali@gmail.com 
 - 🧠 Thoughts: When you begin to comprehend the scale of the cosmos, then you are ready for deep thought.
-- 📊 I'm just a stem enthusiast. <br>
+- 📊 I'm just a stem enthusiast.
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielUgoAli&show_icons=true&locale=en" alt="Daniel" /> </p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielUgoAli)](https://github.com/DanielUgoAli/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=saifurrahman1193&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+
 <!---
 DanielUgoAli/DanielUgoAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
