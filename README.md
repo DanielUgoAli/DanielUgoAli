@@ -5,7 +5,7 @@
 - 🌱 I’m currently into reinforcement learning algorithms.
 - 📑 I’m looking to collaborate, share ideas and build a team💪
 - 📫 How to reach me: danielugoali@gmail.com 
-- 🧠 Thoughts: When you begin to comprehend the scale of the cosmos, then you are ready for deep thought.
+- 🧠 Thoughts: What is intelligence??.
 - 📊 I'm just a stem enthusiast.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielUgoAli&show_icons=true&locale=en&theme=vue-dark&langs_count=10&hide_border=true&layout=compact" alt="Daniel" />
