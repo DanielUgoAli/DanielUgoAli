@@ -8,7 +8,7 @@
 - 🧠 Thoughts: What is intelligence??.
 - 📊 I'm just a stem enthusiast.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/langs?username=DanielUgoAli&show_icons=true&locale=en&theme=vue-dark&langs_count=10&hide_border=true&layout=compact" alt="Daniel" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielUgoAli&show_icons=true&locale=en&theme=vue-dark&langs_count=10&hide_border=true&layout=compact" alt="Daniel" />
 
 <!---
 DanielUgoAli/DanielUgoAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
