@@ -1,9 +1,9 @@
 ### Hello, Reality and Beyond👋
 
 - 📜 Hello, I’m Daniel
-- 👀 I’m interested in Artificial Intelligence and the universe.
-- 🫎 Love FastAPI.
-- 📑 I’m looking to just build.
+- 👀 My curiosity is piqued in Artificial Intelligence and the Universe.
+- 🫎 Love FastAPI/SQLModel.
+- 📑 I’m looking to build, learn and explore.
 - 📫 How to reach me: danielugoali@gmail.com 
 - 🧠 Thoughts: What is intelligence??.
 - 📊 I'm just a stem enthusiast.
