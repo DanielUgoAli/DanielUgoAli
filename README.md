@@ -1,9 +1,9 @@
 ### Hello, Reality and Beyond👋
 
-- 📜 Yo, I’m Daniel
+- 📜 Hello, I’m Daniel
 - 👀 I’m interested in Artificial Intelligence and the universe.
-- 🌱 I’m currently into reinforcement learning algorithms.
-- 📑 I’m looking to collaborate, share ideas and build a team💪
+- 🫎 Love FastAPI.
+- 📑 I’m looking to just build.
 - 📫 How to reach me: danielugoali@gmail.com 
 - 🧠 Thoughts: What is intelligence??.
 - 📊 I'm just a stem enthusiast.
