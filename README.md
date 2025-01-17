@@ -12,6 +12,7 @@
 
 [comment]: <[![GitHub Streak](https://streak-stats.demolab.com/?user=DanielUgoAli&theme=dark)](https://git.io/streak-stats)>
 
+<!--- ![Pytorch Logo](https://github.com/DanielUgoAli/DanielUgoAli/blob/main/torch1.jpg) --->
 <!---
 DanielUgoAli/DanielUgoAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
