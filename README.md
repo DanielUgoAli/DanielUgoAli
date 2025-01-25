@@ -1,12 +1,11 @@
 ### Hello, Reality and Beyond👋
 
-- 📜 Hello, I’m Daniel
 - 👀 My curiosity is piqued in Artificial Intelligence and the Universe.
 - 🫎 Love FastAPI/SQLModel.
-- 📑 I’m looking to build, learn and explore.
+- 📑Building and Exploring 🦜
 - 📫 How to reach me: danielugoali@gmail.com 
 - 🧠 Thoughts: What is intelligence??.
-- 📊 I'm just a stem enthusiast.
+- 📊 I'm just an enthusiast.
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielUgoAli&show_icons=true&locale=en&theme=vue-dark&langs_count=10&hide_border=true">
