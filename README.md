@@ -1,7 +1,7 @@
 ### Hello, Reality and Beyond👋
 
 - 👀 My curiosity is piqued in Artificial Intelligence and the Universe.
-- 🫎 Love FastAPI/SQLModel.
+- 🫎 Love Pytorch/FastAPI/SQLModel.
 - 📑Building and Exploring 🦜
 - 📫 How to reach me: danielugoali@gmail.com 
 - 🧠 Thoughts: What is intelligence??.
