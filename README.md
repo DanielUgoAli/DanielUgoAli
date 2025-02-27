@@ -1,8 +1,8 @@
 ### Hello, Reality and Beyond👋
 
-- 👀 My curiosity is piqued in Artificial Intelligence and the Universe.
+- 👀 Curiosity piqued in Artificial Intelligence and the Universe.
 - 🫎 Love Frameworks like Pytorch
-- 📑Building and Exploring 🦜
+- 📑 Building🦜
 - 📫 How to reach me: danielugoali@gmail.com 
 - 🧠 Thoughts: What is intelligence??.
 - 📊 I'm just an enthusiast.
