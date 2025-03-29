@@ -10,7 +10,9 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielUgoAli&show_icons=true&locale=en&theme=vue-dark&langs_count=10&hide_border=true">
 </p>
-
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielUgoAli&theme=vue-dark&hide_border=true" alt="Danua">
+</p>
 
 [comment]: <[![GitHub Streak](https://streak-stats.demolab.com/?user=DanielUgoAli&theme=dark)](https://git.io/streak-stats)>
 
