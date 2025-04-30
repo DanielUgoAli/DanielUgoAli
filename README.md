@@ -2,10 +2,8 @@
 
 - 👀 Curiosity piqued in Artificial Intelligence and the Universe.
 - 🫎 Love Frameworks like Pytorch
-- 📑 Building🦜
 - 📫 How to reach me: danielugoali@gmail.com 
 - 🧠 Thoughts: What is intelligence??.
-- 📊 I'm just an enthusiast.
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielUgoAli&show_icons=true&locale=en&theme=vue-dark&hide_border=true">
