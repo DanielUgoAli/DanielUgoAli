@@ -1,9 +1,11 @@
-### Hello, Reality and Beyond👋
 
-- 👀 Curiosity piqued in Artificial Intelligence and the Universe.
-- 🫎 Love Frameworks like Pytorch
-- 📫 How to reach me: danielugoali@gmail.com 
-- 🧠 Thoughts: What is intelligence??.
+
+<center> 🥐 Neurak Nets are cool👋 </center>
+
+
+<p>
+<!-- <img align = "center" src = https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight> -->
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielUgoAli&show_icons=true&locale=en&theme=vue-dark&hide_border=true">
