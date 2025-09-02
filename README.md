@@ -1,7 +1,9 @@
 
 
-<center> 🥐 Neurak Nets are cool👋 </center>
+🥐 Neural Nets are cool👋
 
+- Pytorch is cool, tinygrad too.
+- I love working with fastapi
 
 <p>
 <!-- <img align = "center" src = https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight> -->
