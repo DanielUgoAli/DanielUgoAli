@@ -1,6 +1,6 @@
 
 
-🥐 Neural Nets are cool👋
+🥐 Neural Nets are cool.
 
 - Pytorch is cool, tinygrad too.
 - I love working with fastapi
