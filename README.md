@@ -4,6 +4,7 @@
 
 - Pytorch is cool, tinygrad too.
 - I love working with fastapi
+- People are note feeling specialized Ai enough, there is a sector deficit in thier utilization.
 
 <p>
 <!-- <img align = "center" src = https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight> -->
