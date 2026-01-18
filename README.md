@@ -1,8 +1,10 @@
 
 
-🥐 Neural Nets are cool.
+🥐 Neural Nets Fan.
 
 - Pytorch is cool, tinygrad too.
+- Libtorch+CUDA is interesting
+- Saturn is a cool planet
 - I love working with fastapi
 - People are not feeling specialized Ai enough, there is a sector deficit in thier utilization.
 
