@@ -1,7 +1,7 @@
 
 # 🥐 Neural Nets Fan
 
-**Building with PyTorch & FastAPI | Exploring Libtorch+CUDA**
+**Building with PyTorch | Exploring Libtorch+CUDA**
 
 - Ongoing Bsc. in Computer Science
   <!--- @ <a href="https://www.nileuniversity.edu.ng">Nile</a> --->
