@@ -12,8 +12,6 @@
 - People aren't utilizing Ai enough, we are just scratching the surface.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielUgoAli&show_icons=true&theme=vue-dark&hide_border=true" height="165" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielUgoAli&layout=compact&theme=vue-dark&hide_border=true" height="165" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielUgoAli&theme=vue-dark&hide_border=true" height="165" />
