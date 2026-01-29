@@ -1,7 +1,7 @@
 
 # 🥐 Neural Nets Fan
 
-**Building with PyTorch | Exploring Libtorch+CUDA**
+**Building with PyTorch | Exploring Libtorch+CUDA | Experimenting with new architectures**
 
 - Ongoing Bsc. in Computer Science
   <!--- @ <a href="https://www.nileuniversity.edu.ng">Nile</a> --->
@@ -9,6 +9,7 @@
 - Libtorch+CUDA 🔥
 - Saturn is a cool planet 🪐
 - Love working with fastapi
+- Primarily Computer Vision but peeking at NLP a bit.
 - People aren't utilizing Ai enough, we are just scratching the surface.
 
 <p align="center">
