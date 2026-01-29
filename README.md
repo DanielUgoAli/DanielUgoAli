@@ -3,7 +3,8 @@
 
 **Building with PyTorch & FastAPI | Exploring Libtorch+CUDA**
 
-- Bsc. in Computer Science @ <a href="ttps://www.nileuniversity.edu.ng">Nile</a>
+- Ongoing Bsc. in Computer Science
+  <!--- @ <a href="https://www.nileuniversity.edu.ng">Nile</a> --->
 - Pytorch is cool, tinygrad too 😎
 - Libtorch+CUDA 🔥
 - Saturn is a cool planet 🪐
