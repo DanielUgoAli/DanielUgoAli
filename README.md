@@ -6,10 +6,10 @@
 - Ongoing Bsc. in Computer Science
   <!--- @ <a href="https://www.nileuniversity.edu.ng">Nile</a> --->
 - Love working with fastapi
--  Pytorch is cool, tinygrad too 😎
+-  Pytorch is cool, tinygrad too 
 - Primarily Computer Vision but peeking at NLP a bit.
 - People aren't utilizing Ai enough, we are just scratching the surface.
-- Libtorch+CUDA 🔥
+- Libtorch+CUDA 
 - Saturn is a cool planet 🪐
 
 <p align="center">
