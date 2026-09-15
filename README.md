@@ -9,7 +9,6 @@
 -  Pytorch is cool, tinygrad too 
 - Primarily Computer Vision but peeking into NLP & Agent Harness Engineering a bit.
 - People aren't utilizing Ai enough, we are just scratching the surface.
-- Libtorch+CUDA 
 - Saturn is a cool planet 🪐
 
 <p align="center">
