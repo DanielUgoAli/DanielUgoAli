@@ -2,7 +2,7 @@
 # 🥐 Space & Neural Nets Fan
 
 -  Pytorch is cool, tinygrad too 
-- Primarily Computer Vision but peeking into Language Modelling.
+- Primarily Computer Vision but peeking into World & Language Modelling.
 - People aren't utilizing Ai enough, we are just scratching the surface.
 - Saturn is a cool planet 🪐
 
